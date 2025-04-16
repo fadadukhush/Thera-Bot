@@ -9,4 +9,4 @@
 - Chatbot: This module allows users to communicate with the virtual assistant for personalized support.
 
 The upcoming version (v0.0.2) contains a BERT (Bidirectional Encoder Representations from Transformers), in which we have collected customized datasets from mental health experts.
-In This version, we will first ask a few basic questions to the user to initiate the conversation. **_[This part is not publically available. Kindly contact me for more information at kyghelani@gmail.com ]_**
+In This version, we will first ask a few basic questions to the user to initiate the conversation. **_[This part is not publically available. Kindly contact me for more information at fadadukhush@gmail.com ]_**
