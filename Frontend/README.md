@@ -1,4 +1,3 @@
-## Backend Repository Link 🔗: https://github.com/ghelanikirtan/Thera-bot-node
 
 ---
 ### Project Description:
